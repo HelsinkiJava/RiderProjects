@@ -1,0 +1,16 @@
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+G:\RiderProjects\Solution1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+G:\RiderProjects\Solution1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
