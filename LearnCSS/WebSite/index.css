@@ -1,46 +1,91 @@
-﻿body{
-    background:#f4f4f4;
+﻿body {
+    background: #f4f4f4;
     color: #555;
-    font-family: Arial,Helvetica,sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1.6em;
 }
-.container{
+
+.container {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
-#mainHeader{
-    background:coral;
+
+#mainHeader {
+    background: coral;
     color: #ffffff;
 }
-#navbar{
-    background:#333333;
+
+#navbar {
+    background: #333333;
     color: #ffffff;
 }
-#navbar ul{
+
+#navbar ul {
     padding: 0;
     list-style: none;
 }
-#navbar li{
+
+#navbar li {
     display: inline;
 }
-#navbar a{
+
+#navbar a {
     color: #ffffff;
     text-decoration: none;
     font-size: 18px;
     padding-right: 15px;
 }
-#showcase{
+
+#showcase {
     background-image: url(coral.jpg);
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
     text-align: center;
+    box-sizing: border-box;
 }
-#showcase h1{
+
+#showcase h1 {
     color: #ffffff;
     font-size: 50px;
     line-height: 1.6em;
     padding-top: 30px;
+}
+
+#main {
+    float: left;
+    width: 70%;
+    padding: 0 30px;
+    box-sizing: border-box;
+}
+
+#sideBar {
+    float: left;
+    width: 30%;
+    background: #333333;
+    color: #ffffff;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#mainFooter {
+    background: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+@media (max-width: 600px) {
+    #main {
+        width: 100%;
+        float: none;
+    }
+
+    #sideBar {
+        width: 100%;
+        float: none;
+    }
 }
